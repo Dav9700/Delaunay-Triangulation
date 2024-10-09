@@ -1,2 +1,3 @@
 # Delaunay-Triangulation
-Delaunay triangulation with Bowyer Watson's algorithm
+Delaunay triangulation in C++(QT) with Bowyer Watson's algorithm
+
